@@ -1,0 +1,23 @@
+.container{
+	margin-top: 20px;
+}
+img {
+	width: 100%;
+}
+.callout {
+	background-color: #000000;
+	color: #FFFFFF;
+	padding: 10px;
+	height: 100px;
+	opacity: 0.5;
+	position: relative;
+	top: -126px;
+	display: none;
+}
+	.callout h4 {
+		font-size: 1.5em;
+		margin-bottom: 5px;
+	}
+	.callout p {
+		margin-bottom: 5px;
+	}
